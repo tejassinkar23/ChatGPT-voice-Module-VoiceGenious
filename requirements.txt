@@ -1,0 +1,23 @@
+Python: You will need Python installed on your system. The version is not specified, but it should work with Python 2.x or Python 3.x. 
+
+Text File: You need a file named "originalText.txt" in the same directory as the Python script.
+
+Libraries required for code
+1) openAI
+2) pyttsx3
+3) speech_Recognition 
+4) googletrans
+5) pyaudio
+
+This file should contain the text you want to summarize.
+
+System Requirements: 
+
+Processor: 2 GHz dual-core
+processor or better.
+
+Memory: 4 GB system memory or more. 
+
+Internet Access: It is helpful to have internet access.
+
+Operating System: Ubuntu 22.04.2 LTS (64-bit).
