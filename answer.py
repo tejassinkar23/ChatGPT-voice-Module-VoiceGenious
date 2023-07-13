@@ -1,8 +1,6 @@
 import openai
 from apikey import api_data
-
 openai.api_key = api_data
-
 completion = openai.Completion()
 
 def generate_response(question):
