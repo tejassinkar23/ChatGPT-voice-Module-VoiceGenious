@@ -27,6 +27,8 @@ import sys
 '''The line "import sys" in this code imports the sys module, which allows the program to interact 
 with the Python interpreter and provides access to system-specific parameters and functions.'''
 
+import googlemaps
+
 # Set the OpenAI API key
 openai.api_key = api_data
 
