@@ -147,5 +147,4 @@ if __name__ == '__main__':
         print("Jarvis in English: {}".format(response))
         
         speak(response)  
-        # Speak the translated response
- 
+        # Speak the translated response 
