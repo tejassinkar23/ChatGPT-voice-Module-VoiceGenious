@@ -21,3 +21,7 @@ Memory: 4 GB system memory or more.
 Internet Access: It is helpful to have internet access.
 
 Operating System: Ubuntu 22.04.2 LTS (64-bit).
+
+pip install gmaps
+pip install geocoder
+pip install pyaudio
