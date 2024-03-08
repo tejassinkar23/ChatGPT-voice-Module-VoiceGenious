@@ -102,7 +102,7 @@ def play_music():
     
 def take_command():
     r = sr.Recognizer()
-    #it takes command from the user and this function recognite the input of the user
+    #it takes command from the user and this function recognize the input of the user
 
     with sr.Microphone() as source:
         print('Listening...!!')
